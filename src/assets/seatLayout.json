@@ -1,0 +1,303 @@
+[
+  [
+    {
+      "platinum": [
+        {
+          "seat": "A1",
+          "booked": false
+        },
+        {
+          "seat": "A2",
+          "booked": false
+        },
+        {
+          "seat": "A3",
+          "booked": false
+        },
+        {
+          "seat": "A4",
+          "booked": false
+        },
+        {
+          "seat": "A5",
+          "booked": false
+        },
+        {
+          "seat": "A6",
+          "booked": false
+        },
+        {
+          "seat": "A7",
+          "booked": false
+        },
+        {
+          "seat": "A8",
+          "booked": false
+        },
+        {
+          "seat": "A9",
+          "booked": false
+        }
+      ]
+    },
+    {
+      "gold": [
+        {
+          "seat": "B1",
+          "booked": false
+        },
+        {
+          "seat": "B2",
+          "booked": false
+        },
+        {
+          "seat": "B3",
+          "booked": false
+        },
+        {
+          "seat": "B4",
+          "booked": false
+        },
+        {
+          "seat": "B5",
+          "booked": false
+        },
+        {
+          "seat": "B6",
+          "booked": false
+        }
+      ]
+    },
+    {
+      "silver": [
+        {
+          "seat": "C1",
+          "booked": false,
+          "empty": true
+        },
+        {
+          "seat": "C2",
+          "booked": false
+        },
+        {
+          "seat": "C3",
+          "booked": false
+        },
+        {
+          "seat": "C4",
+          "booked": false
+        },
+        {
+          "seat": "C5",
+          "booked": false
+        },
+        {
+          "seat": "C6",
+          "booked": false
+        },
+        {
+          "seat": "C7",
+          "booked": false
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "platinum": [
+        {
+          "seat": "A1",
+          "booked": false
+        },
+        {
+          "seat": "A2",
+          "booked": false
+        },
+        {
+          "seat": "A3",
+          "booked": false
+        },
+        {
+          "seat": "A4",
+          "booked": false
+        },
+        {
+          "seat": "A5",
+          "booked": false
+        },
+        {
+          "seat": "A6",
+          "booked": false
+        },
+        {
+          "seat": "A7",
+          "booked": false
+        }
+      ]
+    },
+    {
+      "gold": [
+        {
+          "seat": "B1",
+          "booked": false,
+          "empty": true
+        },
+        {
+          "seat": "B2",
+          "booked": false
+        },
+        {
+          "seat": "B3",
+          "booked": false
+        },
+        {
+          "seat": "B4",
+          "booked": false
+        },
+        {
+          "seat": "B5",
+          "booked": false
+        },
+        {
+          "seat": "B6",
+          "booked": false
+        }
+      ]
+    },
+    {
+      "silver": [
+        {
+          "seat": "C1",
+          "booked": false
+        },
+        {
+          "seat": "C2",
+          "booked": false
+        },
+        {
+          "seat": "C3",
+          "booked": false
+        },
+        {
+          "seat": "C4",
+          "booked": false
+        },
+        {
+          "seat": "C5",
+          "booked": false
+        },
+        {
+          "seat": "C6",
+          "booked": false
+        },
+        {
+          "seat": "C7",
+          "booked": false
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "platinum": [
+        {
+          "seat": "A1",
+          "booked": false
+        },
+        {
+          "seat": "A2",
+          "booked": false
+        },
+        {
+          "seat": "A3",
+          "booked": false
+        },
+        {
+          "seat": "A4",
+          "booked": false
+        },
+        {
+          "seat": "A5",
+          "booked": false
+        }
+      ]
+    },
+    {
+      "gold": [
+        {
+          "seat": "B1",
+          "booked": false
+        },
+        {
+          "seat": "B2",
+          "booked": false
+        },
+        {
+          "seat": "B3",
+          "booked": false
+        },
+        {
+          "seat": "B4",
+          "booked": false
+        },
+        {
+          "seat": "B5",
+          "booked": false
+        },
+        {
+          "seat": "B6",
+          "booked": false
+        },
+        {
+          "seat": "B7",
+          "booked": false
+        },
+        {
+          "seat": "B8",
+          "booked": false
+        }
+      ]
+    },
+    {
+      "silver": [
+        {
+          "seat": "C1",
+          "booked": false,
+          "empty": true
+        },
+        {
+          "seat": "C2",
+          "booked": false
+        },
+        {
+          "seat": "C3",
+          "booked": false
+        },
+        {
+          "seat": "C4",
+          "booked": false
+        },
+        {
+          "seat": "C5",
+          "booked": false
+        },
+        {
+          "seat": "C6",
+          "booked": false
+        },
+        {
+          "seat": "C7",
+          "booked": false
+        },
+        {
+          "seat": "C8",
+          "booked": false
+        },
+        {
+          "seat": "C9",
+          "booked": false
+        }
+      ]
+    }
+  ]
+]
