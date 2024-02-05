@@ -7,7 +7,7 @@
     "serve": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build",
     "test:unit": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service test:unit",
-    "deploy": "sh deploy.sh"
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.4",
